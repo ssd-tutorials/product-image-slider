@@ -3,8 +3,6 @@
 <head>
 	<meta charset="utf-8" />
 	<title>My Site</title>
-	<meta name="description" content="" />
-	<meta name="keywords" content="" />
 	<link href="/css/core.css" rel="stylesheet" type="text/css" />
 	<link href="/js/ui-lightness/jquery-ui-1.8.14.custom.css" rel="stylesheet" type="text/css" />
 	<!--[if lt IE 9]>
